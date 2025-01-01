@@ -1,9 +1,6 @@
-#Selection_sort.c
-
 #include <stdio.h>
-
 int main() {
-    int a[30], number, i, j, temp;
+int a[30], number, i, j, temp;
 
     printf("Please enter the total number of elements:");
     scanf("%d", &number);
